@@ -5,7 +5,7 @@ Install requirements:<br>
   
 # Installing:
 In terminal - <br>
-  <code>git clone https://github.com/amabirbd/django-project.git</code> <br>
+  <code>git clone https://github.com/amabirbd/django-blog-project.git</code> <br>
   <code>cd django-project</code> <br>
   <code>python manage.py runserver</code> <br>
   
