@@ -1,5 +1,4 @@
 # django-blog
-Install requirements:<br>
  
   
   
